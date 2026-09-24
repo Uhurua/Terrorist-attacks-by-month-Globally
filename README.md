@@ -1,1 +1,1 @@
-# Terrorist-attacks-by-month-Golbally
+# Terrorist-attacks-by-month-Globally
